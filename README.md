@@ -1,10 +1,5 @@
 #Python
 #a simple game of guessing
-
-
-
-
-
 secret_word = "global"
 guess = ""
 guess_count=0
